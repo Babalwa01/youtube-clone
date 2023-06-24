@@ -1,5 +1,3 @@
-This project was inspired by the JavaScript Mastery [YouTube tutorial](https://youtu.be/FHTbsZEJspU).
-
 See live YouTube clone app [here](https://babalwayoutubeclone.netlify.app/).
 
 # Getting Started with Create React App
